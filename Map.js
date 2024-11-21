@@ -1,4 +1,4 @@
-// Map inbuiilt loop. 
+// Map inbuilt loop. 
 // It takes a calback function. Inside the Callback function it take 3   parameters(Items, Index , Array)
 // syntax - Array_name.map((items,index,array)=>{ }) or Array_name.map(function(items,index,array){})
 // It returns a toatally new array
